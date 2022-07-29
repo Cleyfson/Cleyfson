@@ -5,7 +5,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
 <br>
 <details open>
 <summary>
-  <strong>✒ Linguagens</strong>
+  <strong>Linguagens</strong>
 </summary>
 <br>
 
@@ -15,7 +15,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
 
 <details open>
 <summary>
-  <strong>🎨 Front-end / UI</strong>
+  <strong>Front-end</strong>
 </summary>
 <br>
 
@@ -27,7 +27,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
 
 <details open>
 <summary>
-  <strong>🗂 Versionamento / Produtividade</strong>
+  <strong>Versionamento</strong>
 </summary>
 <br>
   
