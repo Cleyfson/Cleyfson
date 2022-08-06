@@ -35,4 +35,4 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
                           
 </details>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyfson&show_icons=true&locale=en&layout=compact" alt="cleyfson" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyfson&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="cleyfson" /></p>
