@@ -2,6 +2,9 @@
 
 Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser desafiado e me manter atualizado são minhas motivações.
 
+<div>
+<img width="40%" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyfson&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="cleyfson" />
+<div align="left">
 <br>
 <details open>
 <summary>
@@ -34,5 +37,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
                           
 </details>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyfson&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="cleyfson" /></p>
+
+</div>
