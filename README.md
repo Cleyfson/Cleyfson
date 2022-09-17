@@ -11,10 +11,11 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
   <strong>Linguagens</strong>
 </summary>
 <br>
-
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="C++" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Ts" height="35" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 </details>
+       
 
 <details open>
 <summary>
@@ -39,5 +40,15 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
 </details>
 </div>
 
+<details open>
+<summary>
+  <strong>Banco de Dados</strong>
+</summary>
+<br>
+  
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                          
+</details>
+</div>
 
 </div>
