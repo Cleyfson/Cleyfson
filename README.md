@@ -46,7 +46,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
 </summary>
 <br>
   
- <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                             
 </details>
 </div>
