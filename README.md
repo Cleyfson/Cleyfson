@@ -1,9 +1,10 @@
 <h2> Olá, Me chamo Cleifson Araújo </h2>
 
 Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser desafiado e me manter atualizado são minhas motivações.
-
+<a href="https://github.com/vitorugoc">
+  
 <div>
-<img width="40%" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyfson&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="cleyfson" />
+<img width="40%" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleyfson&layout=compact&langs_count=7&theme=dark" alt="cleyfson" />
 <div align="left">
 <br>
 <details open>
