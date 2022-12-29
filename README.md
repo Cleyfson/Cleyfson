@@ -46,6 +46,7 @@ Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser des
   <strong>Banco de Dados / Deploy</strong>
 </summary>
 <br>
+  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
