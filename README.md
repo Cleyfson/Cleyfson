@@ -1,59 +1,23 @@
-<h2> Olá, Me chamo Cleifson Araújo </h2>
 
-Sou fascinado pelo mundo de possibilidades que a tecnologia proporciona. Ser desafiado e me manter atualizado são minhas motivações.
-<a href="https://github.com/vitorugoc">
-  
-<div>
-<img width="40%" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleyfson&layout=compact&langs_count=7&theme=dark" alt="cleyfson" />
-<div align="left">
-<br>
-<details open>
-<summary>
-  <strong>Linguagens</strong>
-</summary>
-<br>
- 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+##  Hi, I'm Cleifson Araújo!
 
-<details open>
-<summary>
-  <strong>Front-end</strong>
-</summary>
-<br>
+I'm a Full-Stack Develope who specializes in building web applications using Quasar and Laravel. I am interested in building scalable web applications with a solid foundation of automated testing that provide a good user experience. Fascinated by the world of possibilities that technology provides and the power it has to transform the world.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-</details>
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-369?style=flat&logoColor=fff&logo=laravel)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-111111?style=flat&logoColor=fff&logo=cypress)&nbsp;
 
-<details open>
-<summary>
-  <strong>Versionamento</strong>
-</summary>
-<br>
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-                          
-</details>
-</div>
+<center>
+  <table>
+    <tr>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=blueberry&include_all_commits=true&count_private=true"/></td>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=blueberry" /></td>
+    </tr>  
+  </table>
+</center>  
 
-<details open>
-<summary>
-  <strong>Banco de Dados / Deploy</strong>
-</summary>
-<br>
-  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-                            
-</details>
-</div>
-
-</div>
