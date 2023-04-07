@@ -1,6 +1,4 @@
 
-##  Hi, I'm Cleifson Araújo!
-
 I'm a Full-Stack Develope who specializes in building web applications using Quasar and Laravel. I am interested in building scalable web applications with a solid foundation of automated testing that provide a good user experience. Fascinated by the world of possibilities that technology provides and the power it has to transform the world.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
@@ -15,8 +13,8 @@ I'm a Full-Stack Develope who specializes in building web applications using Qua
 <center>
   <table>
     <tr>
-        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=blueberry&include_all_commits=true&count_private=true"/></td>
-       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=blueberry" /></td>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=dracula&include_all_commits=true&count_private=true"/></td>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=dracula" /></td>
     </tr>  
   </table>
 </center>  
