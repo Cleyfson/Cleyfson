@@ -1,5 +1,5 @@
 
-I'm a Full-Stack Develope who specializes in building web applications using Quasar and Laravel. I am interested in building scalable web applications with a solid foundation of automated testing that provide a good user experience. Fascinated by the world of possibilities that technology provides and the power it has to transform the world.
+As a dedicated Full-Stack Developer, I specialize in creating dynamic web applications using the powerful combination of Quasar and Laravel. My primary focus is on building scalable solutions that seamlessly blend robustness and reliability with a delightful user experience. I have a strong passion for automated testing, ensuring that every line of code is rigorously validated. Technology never fails to amaze me with its limitless possibilities and the incredible impact it can have on transforming the world. I'm excited to continue pushing the boundaries of what's possible and crafting innovative solutions that make a difference.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
