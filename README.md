@@ -19,13 +19,11 @@ Currently, I'm deepening my knowledge in distributed system architecture, micros
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="280px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=dracula"/>
-    </td>
-  </tr>
-</table>
+<center>
+  <table>
+    <tr>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=dracula&include_all_commits=true&count_private=true"/></td>Add commentMore actions
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=dracula" /></td>
+    </tr>  
+  </table>
+</center>  
