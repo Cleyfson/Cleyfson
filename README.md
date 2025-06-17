@@ -25,7 +25,7 @@ Currently, I'm deepening my knowledge in distributed system architecture, micros
       <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cleyfson&theme=dracula&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=dracula"/>
+      <img height="240px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyfson&layout=compact&theme=dracula"/>
     </td>
   </tr>
 </table>
