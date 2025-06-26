@@ -2,7 +2,7 @@ I'm a Full-Stack Developer focused on building robust, scalable, and well-struct
 
 I care about clean code, separation of concerns, and crafting solutions that balance performance and maintainability.
 
-Currently, I'm deepening my knowledge in distributed system architecture, microservices, messaging (queues), design patterns, and cloud computing—especially with AWS.
+Currently, I'm deepening my knowledge in distributed system architecture, microservices, messaging (queues), design patterns, and cloud computing especially with AWS.
 
 ---
 
